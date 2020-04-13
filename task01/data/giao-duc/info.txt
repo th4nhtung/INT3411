@@ -1,0 +1,105 @@
+Link: https://vnexpress.net/giao-duc/giao-vien-tim-cach-bao-mat-lop-hoc-online-4083929.html
+000.wav
+Giáo viên tìm cách bảo mật lớp học online
+001.wav
+Lớp học online bắt đầu được ít phút, cô Hạnh, giáo viên Toán một trường THCS ở Hà Nội, hốt hoảng khi màn hình xuất hiện video nhạy cảm.
+002.wav
+Câu chuyện được cô Hạnh chia sẻ trên một diễn đàn giáo dục tuần trước, thu hút sự chú ý của nhiều giáo viên.
+003.wav
+Cô Hạnh dùng Zoom, ít phút trước giờ học, cô chuẩn bị phòng chờ, yêu cầu học sinh để họ tên đầy đủ mới được duyệt vào.
+004.wav
+Sau đó, cô khóa micro và tính năng chia sẻ màn hình của thành viên.
+005.wav
+Nhưng 5 người lạ đã lọt vào phòng học ảo, đổi tên giống như học sinh trong lớp nên khi duyệt thành viên cô giáo không nhận ra.
+006.wav
+Lớp học bắt đầu, những người này bật camera và quay vào một thiết bị khác đang phát video nhạy cảm.
+007.wav
+Cô giáo hốt hoảng, tìm mọi cách mới xóa được tài khoản của người lạ ra khỏi lớp, buổi học sau đó bị dừng.
+008.wav
+Tìm hiểu sự việc, cô được biết do một học sinh đã đưa ID và mật khẩu lớp học lên Facebook nên bị lộ, nhiều người biết nên vào quấy phá.
+009.wav
+Sau sự cố, cô giáo và đồng nghiệp đề ra nội quy lớp học, quản lý học sinh trong lớp học ảo chặt chẽ hơn.
+010.wav
+Thầy Trần Văn Minh, giáo viên Địa lý trường THCS - THPT Đào Duy Anh (quận 6, TP HCM) kể hai tuần đầu khi trường tổ chức dạy học online bằng ứng dụng Zoom, một số học sinh lạ mặt vào lớp quấy rối, nói chuyện ồn ào, bật nhạc lớn.
+011.wav
+Biết không phải học sinh nhà trường, thầy cô đã loại các em đó ra.
+012.wav
+Zoom có chức năng phê duyệt khi học sinh đăng nhập ID và mật khẩu vào phòng học.
+013.wav
+Ban đầu, để tránh mất thời gian duyệt và một phần chủ quan không nghĩ có người lạ vào nên thầy cô không sử dụng chắc năng này.
+014.wav
+Hiện tại, giáo viên trường đã đổi mật khẩu cho ID và dùng chế độ phê duyệt học sinh đăng nhập nên mọi việc ổn định.
+015.wav
+Mỗi lớp sẽ chia thành nhóm quản trị do cán sự lớp phụ trách, giáo viên thường xuyên gọi học sinh phát biểu trong giờ học, khuyến khích điểm cộng.
+016.wav
+Một số giải pháp bảo mật khác được thầy Minh và đồng nghiệp mách nhau, như: không cho học sinh vẽ lên bài giảng khi để chế độ chia sẻ màn hình (share screeen), tắt âm thanh, khóa chức năng chat, khóa phòng học sau giờ dạy 15 phút.
+017.wav
+Sắp tới, trường Đào Duy Anh sẽ tính đến phương án dùng ứng dụng Microsoft O365 online thay thế Zoom để bảo đảm an toàn cho các lớp.
+018.wav
+Ở Hà Nam, cô Lê Thị Thanh Hải, giáo viên một trường tiểu học nhận được file hướng dẫn xử lý khi có người lạ vào phòng học Zoom được hiệu trưởng gửi.
+019.wav
+Giáo viên với vai trò "host" có thể loại người lạ khỏi lớp học bằng thao thác "remove".
+020.wav
+"Sau khi đọc, tôi cảm thấy yên tâm phần nào nhưng hiểu rằng đây chỉ là giải pháp tình thế, ở mức đơn giản khi có người lạ làm phiền lớp học", cô Hải nói.
+021.wav
+Biết Singapore cấm sử dụng Zoom do vấn đề bảo mật và quyền riêng tư, cô giáo thâm niên 28 năm cho biết cũng có chút lo lắng.
+022.wav
+Từ ngày trường dạy trực tuyến bằng Zoom, cô chật vật mãi mới học được cách dùng, đến nay chưa thực sự thành thạo.
+023.wav
+Việc đổi sang một phần mềm khác không phải là phương án khả thi với cô.
+024.wav
+"Tôi và nhiều đồng nghiệp chưa coi trọng việc bảo mật khi sử dụng phần mềm học online vì cho rằng có cái dạy là tốt rồi", cô nói.
+025.wav
+Được con gái đang là sinh viên giải thích, cô Hải ý thức hơn về nguy cơ rò rỉ thông tin khi dùng Zoom để dạy trực tuyến vì phần mềm này yêu cầu đăng nhập bằng Facebook.
+026.wav
+Cô giáo nhờ con gái lập thêm Facebook "ảo", chứa rất ít thông tin cá nhân và hình ảnh của bản thân để tạo tài khoản mới tại Zoom, mong phần nào hạn chế việc thông tin của mình bị đánh cắp.
+027.wav
+"Do không có chuyên gia tư vấn, tôi làm theo hiểu biết và đánh giá cá nhân.
+028.wav
+Tôi không chắc việc này có thực sự giúp bảo vệ thông tin cá nhân hay không, nhưng vẫn làm vì nó giúp tôi yên tâm hơn khi dạy học", cô Hải nói.
+029.wav
+Khá am hiểu công nghệ và dạy học trực tuyến từ nhiều năm nay, thầy Trần Tuấn Anh, giáo viên Toán ở Trung tâm Giáo dục thường xuyên quận Gò Vấp (TP HCM), cho rằng không phần mềm hay giải pháp ứng dụng dạy học nào bảo mật tuyệt đối.
+030.wav
+"Sự an toàn trong lớp học, giữ bí mật thông tin cá nhân phụ thuộc nhiều vào cách sử dụng, quản lý ứng dụng của giáo viên, học sinh", thầy Tuấn Anh nói.
+031.wav
+Chẳng hạn, với ưu điểm dễ cài đặt, dễ đăng nhập, sử dụng đơn giản, Zoom được nhiều người dùng, nhưng đây cũng chính là khuyết điểm của ứng dụng này.
+032.wav
+Khi cài đặt bất cứ ứng dụng dạy học nào, người dùng phải chú ý không nên trao quyền truy cập vào kho hình ảnh, danh bạ, thông tin cá nhân...
+033.wav
+Theo thầy Tuấn Anh, muốn kiểm soát thành viên trong lớp học khi vào lớp online cũng không khó.
+034.wav
+Thầy cô nên tạo các nhóm với những thành viên cố định, được rà soát kỹ lưỡng từ đầu, yêu cầu học sinh sử dụng tên đăng nhập bằng tên thật.
+035.wav
+Các buổi học sau, chỉ những người này mới được vào lớp, nếu ai muốn vào thì lặp lại quy trình kiểm tra ban đầu.
+036.wav
+Theo TS Quách Tuấn Ngọc, nguyên Cục trưởng Công nghệ thông tin (Bộ Giáo dục và Đào tạo), hành động giao ID và mật khẩu lớp học cho người lạ thuộc về ý thức của của học sinh, việc này giống như "trao chìa khóa nhà cho người lạ".
+037.wav
+"Để hạn chế tình trạng này, không còn cách nào khác là ban giám hiệu phải cảnh báo, hướng dẫn giáo viên, đồng thời người dạy cũng phải nhắc nhở và quán triệt học sinh, có biện pháp xử lý nghiêm nếu em nào vi phạm", ông Ngọc nói.
+038.wav
+Việc học online hiện nay là giải pháp tình thế mang tính bắt buộc, học sinh và giáo viên nếu muốn duy trì chương trình học thì không còn sự lựa chọn nào tốt hơn.
+039.wav
+Tuy nhiên, hình thức học này cũng tiềm ẩn nhiều rủi ro gây mất an toàn cho người dùng trên không gian mạng.
+040.wav
+Để khắc phục, TS Ngọc cho rằng học sinh phải ý thức, "biết giữ chìa khóa nhà mình một cách cẩn thận".
+041.wav
+Bên cạnh đó, giáo viên có thể sử dụng cách dạy từ xa khác là quay video, sau đó đăng tải lên Youtube hoặc các nền tảng miễn phí khác.
+042.wav
+Cụ thể, theo ông Ngọc, việc dạy theo dạng tương tác, gặp gỡ như Zoom khiến thầy cô nói chuyện thoải mái, vừa dạy vừa nhắc nhở học sinh nên giờ học bị thừa ra.
+043.wav
+Nếu dùng video quay sẵn, giáo viên có sự chỉn chu trong câu nói nên thời lượng không bị quá dài, đồng thời có thể lưu lại, sử dụng bài giảng cho các lớp học khác nhau.
+044.wav
+Ngoài ra, hình thức này cũng giúp loại bỏ việc lớp học bị "phá" bởi người lạ, giảm rủi ro bị rò rỉ thông tin.
+045.wav
+Ngày 13/4, sau một thời gian triển khai dạy trực tuyến, Bộ Giáo dục và Đào tạo cho biết đã nhận được phản ánh có kẻ xấu xâm nhập vào phòng học, đăng tải nội dung xấu, độc, phản cảm, phản giáo dục, có dấu hiệu lạm dụng, quấy rối và bắt nạt trẻ em.
+046.wav
+Hiện tượng này gây tâm lý hoang mang cho cả thầy và trò, ảnh hưởng đến chất lượng dạy học qua Internet.
+047.wav
+Bộ Giáo dục và Đào tạo đề nghị các Sở Giáo dục và Đào tạo, trường học tập huấn phổ biến kiến thức, kỹ năng sử dụng Internet, mạng xã hội đảm bảo an toàn, an ninh mạng khi tham gia dạy học trực tuyến.
+048.wav
+Ngành giáo dục địa phương giới thiệu cho giáo viên những giải pháp, phần mềm dạy học uy tín, khuyến khích sử dụng phần mềm có bản quyền, do Bộ Giáo dục và Đào tạo, Thông tin Truyền thông giới thiệu sử dụng miễn phí trong mùa Covid-19.
+049.wav
+Năm học 2019-2020, học sinh cả nước mới học hết tuần 20 thì nghỉ Tết và nghỉ phòng tránh Covid-19.
+050.wav
+Bộ Giáo dục và Đào tạo đã lần thứ hai điều chỉnh khung thời gian năm học 2029-2020.
+051.wav
+Thời điểm kết thúc năm học được lùi đến trước ngày 15/7, thi THPT quốc gia ngày 8-11/8, chậm một tháng rưỡi so với mọi năm và chậm nửa tháng so với lần điều chỉnh đầu tiên.
